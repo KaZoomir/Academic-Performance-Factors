@@ -1,0 +1,3 @@
+Dataset,Model,Best_Params
+Kazakhstan,Random Forest,"{'max_depth': 10, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 100}"
+Foreign,Gradient Boosting,"{'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 100, 'subsample': 1.0}"

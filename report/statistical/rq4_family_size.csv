@@ -1,0 +1,3 @@
+Dataset,Pearson_Corr,Pearson_P,Spearman_Corr,Spearman_P,Significant,Interpretation
+Kazakhstan,-0.021730369046759353,0.8129820042558288,-0.07751236558893787,0.3980784465291326,False,No significant correlation
+Foreign,-0.022681487887437103,0.5640866890344192,-0.019422639720409154,0.6213811999860424,False,No significant correlation

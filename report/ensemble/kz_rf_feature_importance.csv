@@ -1,0 +1,16 @@
+Feature,Importance
+living_situation,0.19957972559153633
+age,0.16686631079306333
+course_year,0.11359870833640094
+father_education,0.10967563071177197
+study_hours_weekly,0.07979454429099891
+course_year_3,0.06380895276158134
+class_absences_Often,0.06161413083245184
+class_absences,0.06007642472250859
+study_hours_weekly_<5,0.033794343659870475
+study_hours_weekly_5-10,0.029667672732745086
+peer_support_Rarely,0.0275047731450865
+financial_support,0.02636721707014529
+course_year_4,0.014042429138254773
+financial_support_Partially,0.01197183358230557
+"physical_activity_Music/Arts, Clubs/Hobbies",0.001637302631279093

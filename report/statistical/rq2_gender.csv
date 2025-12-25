@@ -1,0 +1,3 @@
+Dataset,T_Statistic,P_Value,Significant,Mean_Diff,Interpretation
+Kazakhstan,1.2884373922165169,0.20009319307878945,False,0.17536076326774008,No significant difference
+Foreign,3.5496138516454603,0.0004137572185154298,True,0.32424478297571624,Significant difference

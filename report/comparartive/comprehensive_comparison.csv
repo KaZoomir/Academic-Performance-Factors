@@ -1,0 +1,9 @@
+Aspect,Kazakhstan,Foreign
+Sample Size,121,649
+Mean GPA,3.103,1.765
+GPA Std Dev,0.719,1.155
+Best Model,Elastic Net,Random Forest
+Best Model R²,0.120,0.911
+Best Model RMSE,0.786,0.350
+Top 1 Feature,living_situation,grade_2
+Significant Gender Effect,N/A,Yes
