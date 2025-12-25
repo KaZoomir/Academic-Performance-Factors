@@ -1,0 +1,4 @@
+Insight
+Kazakhstan students have higher average GPA (3.10) compared to Foreign (1.77)
+Foreign dataset shows higher GPA variability (std=1.15) suggesting more diverse academic outcomes
+Models perform better on Foreign data (R²=0.911) vs Kazakhstan (R²=0.120)
