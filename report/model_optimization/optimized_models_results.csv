@@ -1,0 +1,5 @@
+Model,Dataset,Test_R2,Test_RMSE
+Random Forest (Optimized),Kazakhstan,0.16591436974833396,0.764652530886817
+Gradient Boosting (Optimized),Kazakhstan,0.12557654825440612,0.782924185373432
+Random Forest (Optimized),Foreign,0.8916188921299114,0.3866256011215941
+Gradient Boosting (Optimized),Foreign,0.905807224865437,0.36043139391997703
