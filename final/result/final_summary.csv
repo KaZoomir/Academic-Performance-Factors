@@ -1,0 +1,9 @@
+Category,Value
+Dataset - Kazakhstan,"n=121, Mean GPA=3.10"
+Dataset - Foreign,"n=649, Mean GPA=1.77"
+Best Model - Kazakhstan,Elastic Net
+Best Model - Foreign,Random Forest
+Best R² - Kazakhstan,0.1195
+Best R² - Foreign,0.9112
+Best RMSE - Kazakhstan,0.7856
+Best RMSE - Foreign,0.3500
