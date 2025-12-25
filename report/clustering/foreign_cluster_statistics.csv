@@ -1,0 +1,8 @@
+,final_grade,final_grade,final_grade,final_grade,final_grade
+,count,mean,std,min,max
+KMeans_Cluster,,,,,
+0,111,0.961,0.777,0.0,3.33
+1,137,0.606,0.611,0.0,2.0
+2,62,1.489,0.79,0.0,2.67
+3,250,2.374,0.844,0.0,4.0
+4,89,3.034,0.628,2.0,4.0
