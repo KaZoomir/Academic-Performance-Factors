@@ -1,0 +1,3 @@
+Dataset,Test,Statistic,P_Value,Significant,Interpretation
+Kazakhstan,ANOVA,,,False,Insufficient data
+Foreign,N/A,,,False,Income column not found
